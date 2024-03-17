@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,doi.org
 DOMAIN-KEYWORD,sciencedirect
 DOMAIN-KEYWORD,sci-hub
 DOMAIN-SUFFIX,scholar.google.com
+# WebDAV of Zotero
+DOMAIN-SUFFIX,uno.teracloud.jp
